@@ -531,15 +531,15 @@ include 'connect.php';
             </li>
 
             <li class="submenu-category">
-              <a href="#" class="submenu-title">Earrings</a>
+              <a href="earing.php" class="submenu-title">Earrings</a>
             </li>
 
             <li class="submenu-category">
-              <a href="#" class="submenu-title">Necklace</a>
+              <a href="necklace.php" class="submenu-title">Necklace</a>
             </li>
 
             <li class="submenu-category">
-              <a href="#" class="submenu-title">Bags</a>
+              <a href="ladiesbag.php" class="submenu-title">Bags</a>
             </li>
 
           </ul>
